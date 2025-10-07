@@ -62,6 +62,7 @@ FIRST FIVE ROWS:
 <img width="2585" height="780" alt="image" src="https://github.com/user-attachments/assets/2876ad76-5fa5-4c21-919e-4a918eea2a5d" />
 
 PLOTTING THE DATA:
+
 ORIGINAL TIME SERIES DATA:
 <img width="1978" height="594" alt="image" src="https://github.com/user-attachments/assets/f373720f-077a-4aac-b662-6d72a3b53d73" />
 
