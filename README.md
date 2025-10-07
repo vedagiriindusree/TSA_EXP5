@@ -58,21 +58,21 @@ plt.show()
 ```
 
 ### OUTPUT:
-# FIRST FIVE ROWS:
+FIRST FIVE ROWS:
 <img width="2585" height="780" alt="image" src="https://github.com/user-attachments/assets/2876ad76-5fa5-4c21-919e-4a918eea2a5d" />
 
-# PLOTTING THE DATA:
-# ORIGINAL TIME SERIES DATA:
+PLOTTING THE DATA:
+ORIGINAL TIME SERIES DATA:
 <img width="1978" height="594" alt="image" src="https://github.com/user-attachments/assets/f373720f-077a-4aac-b662-6d72a3b53d73" />
 
-# SEASONAL PLOT REPRESENTATION :
+SEASONAL PLOT REPRESENTATION :
 <img width="1974" height="601" alt="image" src="https://github.com/user-attachments/assets/69c62014-7a8c-41c1-b44f-14cc52d8c471" />
 
 
-# LINEAR TREND PLOT REPRESENTATION :
+LINEAR TREND PLOT REPRESENTATION :
 <img width="1962" height="594" alt="image" src="https://github.com/user-attachments/assets/7b60f50b-32a8-4044-8128-ec9c99b1ac29" />
 
-# RESIDUAL PLOT REPRESENTATION:
+RESIDUAL PLOT REPRESENTATION:
 <img width="1974" height="590" alt="image" src="https://github.com/user-attachments/assets/825caeb1-ee0c-4d28-a59c-701ea51fe38c" />
 
 
